@@ -1,0 +1,2 @@
+
+NSPinnedDomains, iOS 14+
